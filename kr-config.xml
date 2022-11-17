@@ -4,5 +4,6 @@
   <license_key></license_key>
   <baseurl>https://kr.improvementsoft.com/</baseurl>
   <annotatorUrl>https://kr.improvementsoft.com/annotator/annotator.htm</annotatorUrl>
+  <contributorUrl>https://kr.improvementsoft.com/contributor/contributor.htm</contributorUrl>
   <token></token>
 </Configuration>
